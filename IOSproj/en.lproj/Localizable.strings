@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  IOSproj
+
+  Created by Rana Tarek on 31/01/2025.
+  
+*/
+"sign_out" = "Sign Out";
+"delete_account" = "Delete Account";
+"change_language" = "Change Language";
